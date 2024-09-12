@@ -42,4 +42,7 @@ A geometria analítica pode ser usada para calcular a posição final do robô c
 
 Essas são algumas das aplicações matemáticas diretamente relacionadas ao comportamento descrito no código, mostrando como a matemática é aplicada no controle e no movimento de robôs móveis.
 
+### Sugestões
+Uma das dificuldades encontradas na aplicação do CAD no CoppeliaSim foi a implementação das rodas, que, por terem muito detalhes, não realizavam o curso pedido pelo código. Uma das soluções encontradas foi a confecção de um cilindro simples para subtituir as rodas. Para um aprimoramento do projeto, podem ser implementadas novas rodas que consigam executar o seguidor de linha de forma mais linear.
+
 Para vizualizar a apresentação e o passo a passo para implementação do Sparki no CoppeliaSim, acesse: https://view.genially.com/66d9e2f7c3dd82d206514f65/interactive-image-sparki-no-coppelia
